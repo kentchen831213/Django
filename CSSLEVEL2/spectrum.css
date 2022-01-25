@@ -1,0 +1,41 @@
+h2{
+  text-align: center;
+  font-family: 'Licorice', cursive;
+}
+
+.One{
+  text-align: center;
+  margin: auto;
+}
+
+td{
+  height: 200px;
+  width: 100px;
+  border: 6px solid white;
+}
+
+
+#first{
+  background-color: #264653;
+  padding: 50px;
+}
+
+#second{
+  background-color: #2A9D8F;
+  padding: 50px;
+}
+
+#third{
+  background-color: #E9C46A;
+  padding: 50px;
+}
+
+#fourth{
+  background-color: #F4A261;
+  padding: 50px;
+}
+
+#fifth{
+  background-color: #E76F51;
+  padding: 50px;
+}
