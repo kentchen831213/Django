@@ -1,0 +1,24 @@
+/* selected tag{
+  property: value
+} */
+
+body{
+  background: url(https://i.pinimg.com/originals/ca/ee/44/caee4430ecca48f9eef850c54bd33363.jpg);
+  background-repeat: no-repeat;
+}
+
+div{
+  background-color: red;
+  border-color: blue;
+  border-width: 5px;
+  border-style: dashed;
+}
+
+p{
+  color: yellow;
+}
+
+span{
+  background: green;
+  color: black;
+}
